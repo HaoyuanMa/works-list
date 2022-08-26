@@ -6,9 +6,9 @@ categories: jekyll update
 ---
 
 # 项目经验 
-[在博客中查看:]()<br>
+[在博客中查看:](https://haoyuanma.github.io/works-list/)<br>
 
-<https://gitee.co>
+<https://haoyuanma.github.io/works-list/>
 
 ---
 
