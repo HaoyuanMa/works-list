@@ -5,6 +5,7 @@ date:   2022-08-26 15:34:36 +0800
 categories: jekyll update
 ---
 
+
 # 项目经验 
 [在博客中查看:](https://haoyuanma.github.io/works-list/)<br>
 
@@ -56,16 +57,18 @@ categories: jekyll update
     - Android使用Kotlin开发，使用SignalR的Java语言支持与服务器（基于SignalR）通信。
 ###  1.3. <a name='-1'></a>功能演示
 - [实时通信系统功能演示视频（点击跳转）](https://www.bilibili.com/video/BV17W4y1t73n)
-[![video](/images/IM/videoPoster.png)](https://www.bilibili.com/video/BV17W4y1t73n)
+[![video][pic-1.3-0]](https://www.bilibili.com/video/BV17W4y1t73n)
+
+
 
 - 聊天室：<br>
-![0](/images/IM/chatRoom.png "聊天室")<br>
+![聊天室演示图][pic-1.3.1]]<br>
 - 图片消息：<br>
-![1](/images/IM/picMsg.png "图片消息")<br>
+![图片消息演示图][pic-1.3.2]<br>
 - 文件传输：<br>
-![2](/images/IM/fileTransfer.png "文件传输")<br>
+![文件传输演示图][pic-1.3.3]<br>
 - 流式数据传输：<br>
-![3](/images/IM/streamMonitor.png "流式数据传输")<br>
+![流式数据传输演示图][pic-1.3.4]<br>
 ###  1.4. <a name='-1'></a>项目仓库
 - .NET服务器：<br>
 <https://github.com/HaoyuanMa/IM-Api>
@@ -98,14 +101,14 @@ categories: jekyll update
     - 后台管理系统使用开源工具[renren-fast-vue](https://gitee.com/renrenio/renren-fast-vue)快速构建。
 ###  2.3. <a name='-1'></a>功能演示
 - 系统架构：<br>
-![0](/images/micro-service/microServiceArch.png "系统架构")<br>
+![系统架构图][pic-2.3.0]<br>
 - 客户端截图：<br>
-![1](/images/micro-service/microServiceShow0.png "H5-APP")<br>
+![客户端截图][pic-2.3.1]<br>
 - 后台管理系统：<br>
-![3](/images/micro-service/microServiceShow1.png "后台管理")<br>
+![后台管理系统截图][pic-2.3.2]<br>
 - nacos配置：<br>
-![4](/images/micro-service/nacosConfig.png "配置中心")<br>
-![5](/images/micro-service/nacosRegister.png "微服务注册")<br>
+![nacos配置中心截图][pic-2.3.3]<br>
+![nacos注册中心截图][pic-2.3.4]<br>
 
 ###  2.4. <a name='-1'></a>项目仓库
 - 服务器：<br>
@@ -124,3 +127,15 @@ categories: jekyll update
 ###  3.3. <a name='-1'></a>功能演示
 
 ###  3.4. <a name='-1'></a>项目仓库
+
+[pic-1.3-0]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/628cfa92-ca9b-430a-92da-7c533fb98834.png
+[pic-1.3.1]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/ea520e51-4294-4b9a-a601-43c6d8221aa6.png
+[pic-1.3.2]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/ce000332-4e71-41b5-86f7-525382cbf046.png
+[pic-1.3.3]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/e8261b77-42b2-425f-8afe-382559d5677e.png
+[pic-1.3.4]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/82f97639-a929-4e4d-851a-ed617c532ae1.png
+
+[pic-2.3.0]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/6a53e09c-d00a-4165-ac13-bfdd5d56df70.png
+[pic-2.3.1]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/b4706df5-f348-49bd-a7e3-f24368b8a185.png
+[pic-2.3.2]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/901482dd-2bd4-4dac-a14a-457902558a6c.png
+[pic-2.3.3]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/a861fc72-36a1-4853-b193-d664601138ef.png
+[pic-2.3.4]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/dd9802ea-dbdf-48a2-abde-b16841b6685d.png
