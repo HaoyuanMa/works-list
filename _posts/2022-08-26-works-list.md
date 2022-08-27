@@ -54,8 +54,7 @@ categories: jekyll update
     - Android使用Kotlin开发，使用SignalR的Java语言支持与服务器（基于SignalR）通信。
 ###  1.3. <a name='-1'></a>功能演示
 - [实时通信系统功能演示视频（点击跳转）](https://www.bilibili.com/video/BV17W4y1t73n)
-<iframe src="//player.bilibili.com/player.html?aid=942472997&bvid=BV17W4y1t73n&cid=814360620&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
-</iframe>
+    <iframe src="//player.bilibili.com/player.html?aid=942472997&bvid=BV17W4y1t73n&cid=814360620&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=75%> </iframe>
 
 
 
