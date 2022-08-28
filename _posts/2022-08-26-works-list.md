@@ -7,11 +7,6 @@ categories: jekyll update
 
 
 # 项目经验 
-[在博客中查看:](https://haoyuanma.github.io/works-list/)<br>
-
-<https://haoyuanma.github.io/works-list/>
-
----
 
 <!-- vscode-markdown-toc -->
 * 1. [**跨平台即时通讯系统（Go，C#，JS，Kotlin，Gin，Vue）**](#GoCJSKotlinGinVue)
