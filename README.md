@@ -24,11 +24,26 @@ categories: jekyll update
 	* 2.2. [技术细节](#-1)
 	* 2.3. [功能演示](#-1)
 	* 2.4. [项目仓库](#-1)
-* 3. [**next**](#next)
+* 3. [**FeedManger Rss订阅管理系统（ASP.NET Web Forms，EF，C#，HTML，JavaScript）**](#FeedMangerRssASP.NETWebFormsEFCHTMLJavaScript)
 	* 3.1. [简介](#-1)
 	* 3.2. [技术细节](#-1)
 	* 3.3. [功能演示](#-1)
 	* 3.4. [项目仓库](#-1)
+* 4. [ **Android端数独小游戏（Android，Java）**](#AndroidAndroidJava)
+	* 4.1. [简介](#-1)
+	* 4.2. [技术细节](#-1)
+	* 4.3. [功能演示](#-1)
+	* 4.4. [项目仓库](#-1)
+* 5. [BitChat **C语言聊天室（C，tcp/socket，mysql，linux）**](#BitChatCCtcpsocketmysqllinux)
+	* 5.1. [简介](#-1)
+	* 5.2. [技术细节](#-1)
+	* 5.3. [功能演示](#-1)
+	* 5.4. [项目仓库](#-1)
+* 6. [**pipe cpu（Verilog，FPGA）**](#pipecpuVerilogFPGA)
+	* 6.1. [简介](#-1)
+	* 6.2. [技术细节](#-1)
+	* 6.3. [功能演示](#-1)
+	* 6.4. [项目仓库](#-1)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -62,7 +77,7 @@ categories: jekyll update
 
 
 - 聊天室：<br>
-![聊天室演示图][pic-1.3.1]]<br>
+![聊天室演示图][pic-1.3.1]<br>
 - 图片消息：<br>
 ![图片消息演示图][pic-1.3.2]<br>
 - 文件传输：<br>
@@ -122,33 +137,33 @@ categories: jekyll update
 
 ---
 
-## **FeedManger Rss订阅管理系统（ASP.NET Web Forms，EF，C#，HTML，JavaScript）
+##  3. <a name='FeedMangerRssASP.NETWebFormsEFCHTMLJavaScript'></a>**FeedManger Rss订阅管理系统（ASP.NET Web Forms，EF，C#，HTML，JavaScript）**
 移动互联课程作业
-### 简介
+###  3.1. <a name='-1'></a>简介
 一个向用户提供RSS订阅管理的网站系统。支持用户添加RSS订阅，并对其管理，如取消订阅，为订阅分类等。同时也支持对订阅中的具体文章或任意文章链接进行收藏等操作。
-### 技术细节
+###  3.2. <a name='-1'></a>技术细节
 - 语言框架：
     - C#，JavaScript，HTML，CSS
     - ASP.NET，SQL Server，jQuery，Bootstrap
 - 使用ASP.NET Web Forms开发模式，对模板代码进行修改已完成自己的业务需求。
 - 使用IIS部署网站。
-### 功能演示
+###  3.3. <a name='-1'></a>功能演示
 - 订阅列表：<br>
 ![订阅列表][pic-3.3.0]<br>
 - 收藏夹：<br>
 ![收藏夹][pic-3.3.1]<br>
 - 添加订阅/收藏非订阅中的文章：<br>
 ![订阅管理][pic-3.3.2]<br>
-### 项目仓库
+###  3.4. <a name='-1'></a>项目仓库
 <https://github.com/HaoyuanMa/FeedManager>
 
 ----
 
-##  **Android端数独小游戏（Android，Java）**
+##  4. <a name='AndroidAndroidJava'></a> **Android端数独小游戏（Android，Java）**
 Android开发课程作业
-### 简介
+###  4.1. <a name='-1'></a>简介
 一个Android平台的数独小游戏，共24到数独题目，游戏界面对于玩家填入的正确数字以蓝色字体显示，若存在冲突，以红色字体提醒。完成数独后，计算用时以提供一个简单的排行榜。
-### 技术细节
+###  4.2. <a name='-1'></a>技术细节
 - 语言框架：
     - Java，Android，SQLite
 - 技术细节
@@ -157,17 +172,61 @@ Android开发课程作业
     - 设计Game类封装游戏逻辑，使之与视图显示及用户交互逻辑上解耦。
     - 使用SQLite存储玩家解题用时。
     
-### 功能演示
+###  4.3. <a name='-1'></a>功能演示
 - 引导界面/主页面：<br>
 ![主页面][pic-4.3.0]<br>
 - 游戏页面：<br>
 ![游戏页面][pic-4.3.1]<br>
 - 完成游戏/排行榜：<br>
 ![排行榜][pic-4.3.2]<br>
-### 项目仓库
+###  4.4. <a name='-1'></a>项目仓库
 <https://github.com/HaoyuanMa/sudoku>
 
+----
 
+##  5. <a name='BitChatCCtcpsocketmysqllinux'></a>BitChat **C语言聊天室（C，tcp/socket，mysql，linux）**
+小学期实践作业
+###  5.1. <a name='-1'></a>简介
+小组协作开发，我负责服务器端，主要实现返回好友列表，处理在线状态，转发消息等功能。
+###  5.2. <a name='-1'></a>技术细节
+- 语言框架：
+    - C，MySQL，Linux
+- 依据C/S模式工作原理，服务器对端口进行监听，与客户端连接后，新建一个线程进行接受数据。
+- 自定义传输协议（字符串），根据字符串首位标识符确定客户端的请求类型，并调用对应函数处理数据。
+###  5.3. <a name='-1'></a>功能演示
+- 登录页面/主页面：<br>
+![主页面][pic-5.3.0]<br>
+- 聊天页面：<br>
+![聊天页面][pic-5.3.1]<br>
+###  5.4. <a name='-1'></a>项目仓库
+<https://github.com/HaoyuanMa/BitChat>
+
+----
+
+##  6. <a name='pipecpuVerilogFPGA'></a>**pipe cpu（Verilog，FPGA）**
+计算机组成原理课程设计
+###  6.1. <a name='-1'></a>简介
+一个基于FPGA的简单的五级流水线CPU，支持基本的运算，跳转，数据存储与传送等基本指令，解决了流水线cpu中的控制相关和数据相关的问题。
+###  6.2. <a name='-1'></a>技术细节
+- 语言框架：
+    - Verilog，FPGA，时序电路仿真
+- 根据五级流水的五个阶段（取指，译码，执行，执行，访存，写回），将整个cpu分为五个子模块分别编码实现，然后封装在顶层模块里。
+- 在五个子模块中又分别对alu（运算模块），cu（控制模块），bru（跳转处理模块）等更小的子模块进行封装。
+- 由于流水执行，跳转指令在译码阶段被识别时，下一条指令已经取指开始执行，如不处理，会导致寄存器值被更改，即控制相关问题。采用在跳转指令后插入空指令的方法处理控制相关。
+- 下一条指令读寄存器时，前三条指令还未进行写回，如不处理，所读取的内容将不是最新的，即数据相关问题。采用数据前推的方式解决。
+- 由于LW指令改写寄存器的写入数据在访存阶段才能确定，因此单纯的数据回推无法解决相关问题，需要在指令后插入一条空指令。为了简化设计，对于所有LW指令，无论是否出现数据相关，均在其后插入空指令。
+- 通过汇编工具将指令翻译成二进制数字，然后输入cpu进行仿真。
+###  6.3. <a name='-1'></a>功能演示
+- cpu架构：<br>
+![cpu架构图][pic-6.3.0]<br>
+- 仿真结果：<br>
+![仿真结果][pic-6.3.1]<br>
+![仿真结果][pic-6.3.2]<br>
+![仿真结果][pic-6.3.3]<br>
+###  6.4. <a name='-1'></a>项目仓库
+<https://github.com/HaoyuanMa/pipe-cpu-verilog>
+
+----
 
 [pic-1.3-0]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/628cfa92-ca9b-430a-92da-7c533fb98834.png
 [pic-1.3.1]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/ea520e51-4294-4b9a-a601-43c6d8221aa6.png
@@ -189,4 +248,10 @@ Android开发课程作业
 [pic-4.3.1]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/8a0356c4-ce40-48a8-a28c-c3320bba02d7.png
 [pic-4.3.2]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/8d85d907-37fd-461a-965c-034e0e17e7cf.png
 
-----
+[pic-5.3.0]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/c57e2b24-cdd8-4a7f-a4ba-6c85fdb8a6ed.png
+[pic-5.3.1]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/e9d30d2d-95c5-4e67-b1f0-e2f0b7723a5b.png
+
+[pic-6.3.0]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/daa85fc8-86aa-4c19-8924-2ada87931b07.png
+[pic-6.3.1]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/ffff1b00-6c40-47b2-9470-149c21a2a89e.png
+[pic-6.3.2]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/c7f15b7a-59ad-4140-853c-b13133604512.png
+[pic-6.3.3]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/dc0a8ec3-8972-4ce1-aa0e-9697896b89c1.png
