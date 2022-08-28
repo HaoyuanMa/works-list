@@ -87,7 +87,7 @@ categories: jekyll update
 ###  2.2. <a name='-1'></a>技术细节
 - 语言及框架/工具：
     - Java，JavaScript
-    - SpringCloud，OpenFeign，Vue，MySQL，JWT
+    - SpringCloud，MyBatis，OpenFeign，Vue，MySQL，JWT
     - Nacos，SpringCloud GateWay，Docker
 - 服务器：
     - 根据不同的业务场景，将系统划分成订单管理，用户中心等不同微服务，使用Docker部署各服务。

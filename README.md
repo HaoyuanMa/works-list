@@ -81,7 +81,9 @@ categories: jekyll update
 - 流式数据生成demo：<br>
 <https://github.com/HaoyuanMa/IM-DataStreamGenerator-CSharp><br>
 <https://github.com/HaoyuanMa/IM-DataStreamGenerator-go>
+
 ---
+
 ##  2. <a name='JavaJSmicro-serviceVue'></a>**线上预约陪诊系统（Java，JS，micro-service，Vue）**
 微服务应用课程设计
 ###  2.1. <a name='-1'></a>简介
@@ -89,7 +91,7 @@ categories: jekyll update
 ###  2.2. <a name='-1'></a>技术细节
 - 语言及框架/工具：
     - Java，JavaScript
-    - SpringCloud，OpenFeign，Vue，MySQL，JWT
+    - SpringCloud，MyBatis，OpenFeign，Vue，MySQL，JWT
     - Nacos，SpringCloud GateWay，Docker
 - 服务器：
     - 根据不同的业务场景，将系统划分成订单管理，用户中心等不同微服务，使用Docker部署各服务。
@@ -117,16 +119,55 @@ categories: jekyll update
 <https://github.com/HaoyuanMa/micro-service-front>
 - 后台管理系统：<br>
 <https://github.com/HaoyuanMa/micro-service-admin>
+
 ---
-##  3. <a name='next'></a>**next**
 
-###  3.1. <a name='-1'></a>简介
+## **FeedManger Rss订阅管理系统（ASP.NET Web Forms，EF，C#，HTML，JavaScript）
+移动互联课程作业
+### 简介
+一个向用户提供RSS订阅管理的网站系统。支持用户添加RSS订阅，并对其管理，如取消订阅，为订阅分类等。同时也支持对订阅中的具体文章或任意文章链接进行收藏等操作。
+### 技术细节
+- 语言框架：
+    - C#，JavaScript，HTML，CSS
+    - ASP.NET，SQL Server，jQuery，Bootstrap
+- 使用ASP.NET Web Forms开发模式，对模板代码进行修改已完成自己的业务需求。
+- 使用IIS部署网站。
+### 功能演示
+- 订阅列表：<br>
+![订阅列表][pic-3.3.0]<br>
+- 收藏夹：<br>
+![收藏夹][pic-3.3.1]<br>
+- 添加订阅/收藏非订阅中的文章：<br>
+![订阅管理][pic-3.3.2]<br>
+### 项目仓库
+<https://github.com/HaoyuanMa/FeedManager>
 
-###  3.2. <a name='-1'></a>技术细节
+----
 
-###  3.3. <a name='-1'></a>功能演示
+##  **Android端数独小游戏（Android，Java）**
+Android开发课程作业
+### 简介
+一个Android平台的数独小游戏，共24到数独题目，游戏界面对于玩家填入的正确数字以蓝色字体显示，若存在冲突，以红色字体提醒。完成数独后，计算用时以提供一个简单的排行榜。
+### 技术细节
+- 语言框架：
+    - Java，Android，SQLite
+- 技术细节
+    - 设计引导页面，App启动后显示封面图三秒后跳转至主页面。
+    - 设计SudoView（继承自View）绘制游戏页面，并实现对应的填数逻辑。设计KeyDialog（继承自Dialog）绘制玩家填数时显示的输入pad，同时实现相关逻辑。
+    - 设计Game类封装游戏逻辑，使之与视图显示及用户交互逻辑上解耦。
+    - 使用SQLite存储玩家解题用时。
+    
+### 功能演示
+- 引导界面/主页面：<br>
+![主页面][pic-4.3.0]<br>
+- 游戏页面：<br>
+![游戏页面][pic-4.3.1]<br>
+- 完成游戏/排行榜：<br>
+![排行榜][pic-4.3.2]<br>
+### 项目仓库
+<https://github.com/HaoyuanMa/sudoku>
 
-###  3.4. <a name='-1'></a>项目仓库
+
 
 [pic-1.3-0]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/628cfa92-ca9b-430a-92da-7c533fb98834.png
 [pic-1.3.1]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/ea520e51-4294-4b9a-a601-43c6d8221aa6.png
@@ -139,3 +180,13 @@ categories: jekyll update
 [pic-2.3.2]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/901482dd-2bd4-4dac-a14a-457902558a6c.png
 [pic-2.3.3]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/a861fc72-36a1-4853-b193-d664601138ef.png
 [pic-2.3.4]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/dd9802ea-dbdf-48a2-abde-b16841b6685d.png
+
+[pic-3.3.0]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/f52f1930-4637-476c-8888-b9b7b889af88.png
+[pic-3.3.1]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/005514d1-07d4-4153-b801-9d462abba4dc.png
+[pic-3.3.2]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/e6f8beb4-463e-41b0-9fd4-f58e728e7abb.png
+
+[pic-4.3.0]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/e0fe6b57-7883-4a95-9dc0-4dd550be14e8.png
+[pic-4.3.1]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/8a0356c4-ce40-48a8-a28c-c3320bba02d7.png
+[pic-4.3.2]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/8d85d907-37fd-461a-965c-034e0e17e7cf.png
+
+----
