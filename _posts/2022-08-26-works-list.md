@@ -8,51 +8,53 @@ categories: jekyll update
 
 # 项目经验 
 
-<!-- vscode-markdown-toc -->
-* 1. [**跨平台即时通讯系统（Go，C#，JS，Kotlin，Gin，Vue）**](#GoCJSKotlinGinVue)
-	* 1.1. [简介](#)
-	* 1.2. [技术细节](#-1)
-	* 1.3. [功能演示](#-1)
-	* 1.4. [项目仓库](#-1)
-* 2. [**线上预约陪诊系统（Java，JS，micro-service，Vue）**](#JavaJSmicro-serviceVue)
-	* 2.1. [简介](#-1)
-	* 2.2. [技术细节](#-1)
-	* 2.3. [功能演示](#-1)
-	* 2.4. [项目仓库](#-1)
-* 3. [**FeedManger Rss订阅管理系统（ASP.NET Web Forms，EF，C#，HTML，JavaScript）**](#FeedMangerRssASP.NETWebFormsEFCHTMLJavaScript)
-	* 3.1. [简介](#-1)
-	* 3.2. [技术细节](#-1)
-	* 3.3. [功能演示](#-1)
-	* 3.4. [项目仓库](#-1)
-* 4. [ **Android端数独小游戏（Android，Java）**](#AndroidAndroidJava)
-	* 4.1. [简介](#-1)
-	* 4.2. [技术细节](#-1)
-	* 4.3. [功能演示](#-1)
-	* 4.4. [项目仓库](#-1)
-* 5. [BitChat **C语言聊天室（C，tcp/socket，mysql，linux）**](#BitChatCCtcpsocketmysqllinux)
-	* 5.1. [简介](#-1)
-	* 5.2. [技术细节](#-1)
-	* 5.3. [功能演示](#-1)
-	* 5.4. [项目仓库](#-1)
-* 6. [**pipe cpu（Verilog，FPGA）**](#pipecpuVerilogFPGA)
-	* 6.1. [简介](#-1)
-	* 6.2. [技术细节](#-1)
-	* 6.3. [功能演示](#-1)
-	* 6.4. [项目仓库](#-1)
 
-<!-- vscode-markdown-toc-config
-	numbering=true
-	autoSave=true
-	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc -->
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+- [项目经验](#项目经验)
+  - [1. **跨平台即时通讯系统（Go，C#，JS，Kotlin，Gin，Vue）**](#1-跨平台即时通讯系统gocjskotlinginvue)
+    - [1.1. 简介](#11-a-nameaa简介)
+    - [1.2. 技术细节](#12-a-name12a技术细节)
+    - [1.3. 功能演示](#13-a-name-1a功能演示)
+    - [1.4. 项目仓库](#14-a-name-1a项目仓库)
+  - [2. **线上预约陪诊系统（Java，JS，micro-service，Vue）**](#2-a-namejavajsmicro-servicevuea线上预约陪诊系统javajsmicro-servicevue)
+    - [2.1. 简介](#21-a-name-1a简介)
+    - [2.2. 技术细节](#22-a-name-1a技术细节)
+    - [2.3. 功能演示](#23-a-name-1a功能演示)
+    - [2.4. 项目仓库](#24-a-name-1a项目仓库)
+  - [3. **FeedManger Rss订阅管理系统（ASP.NET Web Forms，EF，C#，HTML，JavaScript）**](#3-a-namefeedmangerrssaspnetwebformsefchtmljavascriptafeedmanger-rss订阅管理系统aspnet-web-formsefchtmljavascript)
+    - [3.1. 简介](#31-a-name-1a简介)
+    - [3.2. 技术细节](#32-a-name-1a技术细节)
+    - [3.3. 功能演示](#33-a-name-1a功能演示)
+    - [3.4. 项目仓库](#34-a-name-1a项目仓库)
+  - [4.  **Android端数独小游戏（Android，Java）**](#4-a-nameandroidandroidjavaa-android端数独小游戏androidjava)
+    - [4.1. 简介](#41-a-name-1a简介)
+    - [4.2. 技术细节](#42-a-name-1a技术细节)
+    - [4.3. 功能演示](#43-a-name-1a功能演示)
+    - [4.4. 项目仓库](#44-a-name-1a项目仓库)
+  - [5. BitChat **C语言聊天室（C，tcp/socket，mysql，linux）**](#5-a-namebitchatcctcpsocketmysqllinuxabitchat-c语言聊天室ctcpsocketmysqllinux)
+    - [5.1. 简介](#51-a-name-1a简介)
+    - [5.2. 技术细节](#52-a-name-1a技术细节)
+    - [5.3. 功能演示](#53-a-name-1a功能演示)
+    - [5.4. 项目仓库](#54-a-name-1a项目仓库)
+  - [6. **pipe cpu（Verilog，FPGA）**](#6-a-namepipecpuverilogfpgaapipe-cpuverilogfpga)
+    - [6.1. 简介](#61-a-name-1a简介)
+    - [6.2. 技术细节](#62-a-name-1a技术细节)
+    - [6.3. 功能演示](#63-a-name-1a功能演示)
+    - [6.4. 项目仓库](#64-a-name-1a项目仓库)
+
+<!-- /code_chunk_output -->
 
 
 
-##  1. <a name='GoCJSKotlinGinVue'></a>**跨平台即时通讯系统（Go，C#，JS，Kotlin，Gin，Vue）**
+
+##  1. **跨平台即时通讯系统（Go，C#，JS，Kotlin，Gin，Vue）**
 本科毕业设计
-###  1.1. <a name=''></a>简介
+###  1.1. <a name='a'></a>简介
 本课题使用WebSocket和SignalR来实现一个简单的跨平台实时通讯应用。该应用允许用户在Web浏览器或Android App上进行实时聊天，支持私聊，群聊，广播，发送文本及图片消息以及传输文件。同时课题也实现了一套流式数据传输的演示程序，以模拟物联网系统中需要处理流式数据的应用场景，如智慧医疗系统中对患者生命体征数据的监控。
-###  1.2. <a name='-1'></a>技术细节
+###  1.2. <a name='1.2'></a>技术细节
 - 语言及框架：
     - C#，Go，Kotlin，JavaScript
     - .NET WebAPI，Gin，Vue，Gorm，MySQL，JWT
@@ -65,6 +67,7 @@ categories: jekyll update
     - 在Web端针对基于SignalR的服务器和基于Go（WebSocket）的服务器分别设计封装了两套不同的通信接口。
     - Web端使用SignalR的JS语言支持与服务器（基于SignalR）通信。使用原生HTML5原生Websocket支持与服务器（基于Go）通信。
     - Android使用Kotlin开发，使用SignalR的Java语言支持与服务器（基于SignalR）通信。
+
 ###  1.3. <a name='-1'></a>功能演示
 - [实时通信系统功能演示视频（点击跳转）](https://www.bilibili.com/video/BV17W4y1t73n)
     <iframe src="//player.bilibili.com/player.html?aid=942472997&bvid=BV17W4y1t73n&cid=814360620&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
@@ -110,6 +113,7 @@ categories: jekyll update
 - 客户端/后台管理系统：
     - H5应用基于开源商城项目[众邦科技/CRMEB-H5](https://gitee.com/ZhongBangKeJi/CRMEB-H5)。根据陪诊服务场景对开源项目代码进行删减，修改，重构以实现对应的业务逻辑。
     - 后台管理系统使用开源工具[renren-fast-vue](https://gitee.com/renrenio/renren-fast-vue)快速构建。
+
 ###  2.3. <a name='-1'></a>功能演示
 - 系统架构：<br>
 ![系统架构图][pic-2.3.0]<br>
@@ -141,6 +145,7 @@ categories: jekyll update
     - ASP.NET，SQL Server，jQuery，Bootstrap
 - 使用ASP.NET Web Forms开发模式，对模板代码进行修改已完成自己的业务需求。
 - 使用IIS部署网站。
+
 ###  3.3. <a name='-1'></a>功能演示
 - 订阅列表：<br>
 ![订阅列表][pic-3.3.0]<br>
@@ -165,7 +170,7 @@ Android开发课程作业
     - 设计SudoView（继承自View）绘制游戏页面，并实现对应的填数逻辑。设计KeyDialog（继承自Dialog）绘制玩家填数时显示的输入pad，同时实现相关逻辑。
     - 设计Game类封装游戏逻辑，使之与视图显示及用户交互逻辑上解耦。
     - 使用SQLite存储玩家解题用时。
-    
+
 ###  4.3. <a name='-1'></a>功能演示
 - 引导界面/主页面：<br>
 ![主页面][pic-4.3.0]<br>
@@ -187,6 +192,7 @@ Android开发课程作业
     - C，MySQL，Linux
 - 依据C/S模式工作原理，服务器对端口进行监听，与客户端连接后，新建一个线程进行接受数据。
 - 自定义传输协议（字符串），根据字符串首位标识符确定客户端的请求类型，并调用对应函数处理数据。
+
 ###  5.3. <a name='-1'></a>功能演示
 - 登录页面/主页面：<br>
 ![主页面][pic-5.3.0]<br>
@@ -210,6 +216,7 @@ Android开发课程作业
 - 下一条指令读寄存器时，前三条指令还未进行写回，如不处理，所读取的内容将不是最新的，即数据相关问题。采用数据前推的方式解决。
 - 由于LW指令改写寄存器的写入数据在访存阶段才能确定，因此单纯的数据回推无法解决相关问题，需要在指令后插入一条空指令。为了简化设计，对于所有LW指令，无论是否出现数据相关，均在其后插入空指令。
 - 通过汇编工具将指令翻译成二进制数字，然后输入cpu进行仿真。
+
 ###  6.3. <a name='-1'></a>功能演示
 - cpu架构：<br>
 ![cpu架构图][pic-6.3.0]<br>
