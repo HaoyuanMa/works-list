@@ -6,6 +6,7 @@ categories: jekyll update
 ---
 
 
+
 # 项目经验 
 
 
@@ -14,47 +15,47 @@ categories: jekyll update
 <!-- code_chunk_output -->
 
 - [项目经验](#项目经验)
-  - [1. **跨平台即时通讯系统（Go，C#，JS，Kotlin，Gin，Vue）**](#1-跨平台即时通讯系统gocjskotlinginvue)
-    - [1.1. 简介](#11-a-nameaa简介)
-    - [1.2. 技术细节](#12-a-name12a技术细节)
-    - [1.3. 功能演示](#13-a-name-1a功能演示)
-    - [1.4. 项目仓库](#14-a-name-1a项目仓库)
-  - [2. **线上预约陪诊系统（Java，JS，micro-service，Vue）**](#2-a-namejavajsmicro-servicevuea线上预约陪诊系统javajsmicro-servicevue)
-    - [2.1. 简介](#21-a-name-1a简介)
-    - [2.2. 技术细节](#22-a-name-1a技术细节)
-    - [2.3. 功能演示](#23-a-name-1a功能演示)
-    - [2.4. 项目仓库](#24-a-name-1a项目仓库)
-  - [3. **FeedManger Rss订阅管理系统（ASP.NET Web Forms，EF，C#，HTML，JavaScript）**](#3-a-namefeedmangerrssaspnetwebformsefchtmljavascriptafeedmanger-rss订阅管理系统aspnet-web-formsefchtmljavascript)
-    - [3.1. 简介](#31-a-name-1a简介)
-    - [3.2. 技术细节](#32-a-name-1a技术细节)
-    - [3.3. 功能演示](#33-a-name-1a功能演示)
-    - [3.4. 项目仓库](#34-a-name-1a项目仓库)
-  - [4.  **Android端数独小游戏（Android，Java）**](#4-a-nameandroidandroidjavaa-android端数独小游戏androidjava)
-    - [4.1. 简介](#41-a-name-1a简介)
-    - [4.2. 技术细节](#42-a-name-1a技术细节)
-    - [4.3. 功能演示](#43-a-name-1a功能演示)
-    - [4.4. 项目仓库](#44-a-name-1a项目仓库)
-  - [5. BitChat **C语言聊天室（C，tcp/socket，mysql，linux）**](#5-a-namebitchatcctcpsocketmysqllinuxabitchat-c语言聊天室ctcpsocketmysqllinux)
-    - [5.1. 简介](#51-a-name-1a简介)
-    - [5.2. 技术细节](#52-a-name-1a技术细节)
-    - [5.3. 功能演示](#53-a-name-1a功能演示)
-    - [5.4. 项目仓库](#54-a-name-1a项目仓库)
-  - [6. **pipe cpu（Verilog，FPGA）**](#6-a-namepipecpuverilogfpgaapipe-cpuverilogfpga)
-    - [6.1. 简介](#61-a-name-1a简介)
-    - [6.2. 技术细节](#62-a-name-1a技术细节)
-    - [6.3. 功能演示](#63-a-name-1a功能演示)
-    - [6.4. 项目仓库](#64-a-name-1a项目仓库)
+  - [**1.跨平台即时通讯系统（Go，C#，JS，Kotlin，Gin，Vue）**](#1跨平台即时通讯系统gocjskotlinginvue)
+    - [1.1 简介](#11-简介)
+    - [1.2 技术细节](#12-技术细节)
+    - [1.3 功能演示](#13-功能演示)
+    - [1.4 项目仓库](#14-项目仓库)
+  - [**2.线上预约陪诊系统（Java，JS，micro-service，Vue）**](#2线上预约陪诊系统javajsmicro-servicevue)
+    - [2.1 简介](#21-简介)
+    - [2.2 技术细节](#22-技术细节)
+    - [2.3 功能演示](#23-功能演示)
+    - [2.4 项目仓库](#24-项目仓库)
+  - [**3.FeedManger Rss订阅管理系统（ASP.NET Web Forms，EF，C#，HTML，JavaScript）**](#3feedmanger-rss订阅管理系统aspnet-web-formsefchtmljavascript)
+    - [3.1 简介](#31-简介)
+    - [3.2 技术细节](#32-技术细节)
+    - [3.3 功能演示](#33-功能演示)
+    - [3.4 项目仓库](#34-项目仓库)
+  - [**4.Android端数独小游戏（Android，Java）**](#4android端数独小游戏androidjava)
+    - [4.1 简介](#41-简介)
+    - [4.2 技术细节](#42-技术细节)
+    - [4.3 功能演示](#43-功能演示)
+    - [4.4 项目仓库](#44-项目仓库)
+  - [**5.BitChat-C语言聊天室（C，tcp/socket，mysql，linux）**](#5bitchat-c语言聊天室ctcpsocketmysqllinux)
+    - [5.1 简介](#51-简介)
+    - [5.2 技术细节](#52-技术细节)
+    - [5.3 功能演示](#53-功能演示)
+    - [5.4 项目仓库](#54-项目仓库)
+  - [**6.pipe cpu（Verilog，FPGA）**](#6pipe-cpuverilogfpga)
+    - [6.1 简介](#61-简介)
+    - [6.2 技术细节](#62-技术细节)
+    - [6.3 功能演示](#63-功能演示)
+    - [6.4 项目仓库](#64-项目仓库)
 
 <!-- /code_chunk_output -->
 
 
 
 
-##  1. **跨平台即时通讯系统（Go，C#，JS，Kotlin，Gin，Vue）**
+## **1.跨平台即时通讯系统（Go，C#，JS，Kotlin，Gin，Vue）**
 本科毕业设计
-###  1.1. <a name='a'></a>简介
+###  1.1 简介
 本课题使用WebSocket和SignalR来实现一个简单的跨平台实时通讯应用。该应用允许用户在Web浏览器或Android App上进行实时聊天，支持私聊，群聊，广播，发送文本及图片消息以及传输文件。同时课题也实现了一套流式数据传输的演示程序，以模拟物联网系统中需要处理流式数据的应用场景，如智慧医疗系统中对患者生命体征数据的监控。
-###  1.2. <a name='1.2'></a>技术细节
+###  1.2 技术细节
 - 语言及框架：
     - C#，Go，Kotlin，JavaScript
     - .NET WebAPI，Gin，Vue，Gorm，MySQL，JWT
@@ -68,7 +69,7 @@ categories: jekyll update
     - Web端使用SignalR的JS语言支持与服务器（基于SignalR）通信。使用原生HTML5原生Websocket支持与服务器（基于Go）通信。
     - Android使用Kotlin开发，使用SignalR的Java语言支持与服务器（基于SignalR）通信。
 
-###  1.3. <a name='-1'></a>功能演示
+###  1.3 功能演示
 - [实时通信系统功能演示视频（点击跳转）](https://www.bilibili.com/video/BV17W4y1t73n)
     <iframe src="//player.bilibili.com/player.html?aid=942472997&bvid=BV17W4y1t73n&cid=814360620&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
@@ -81,7 +82,8 @@ categories: jekyll update
 ![文件传输演示图][pic-1.3.3]<br>
 - 流式数据传输：<br>
 ![流式数据传输演示图][pic-1.3.4]<br>
-###  1.4. <a name='-1'></a>项目仓库
+
+###  1.4 项目仓库
 - .NET服务器：<br>
 <https://github.com/HaoyuanMa/IM-Api>
 - Go服务器：<br>
@@ -96,11 +98,11 @@ categories: jekyll update
 
 ---
 
-##  2. <a name='JavaJSmicro-serviceVue'></a>**线上预约陪诊系统（Java，JS，micro-service，Vue）**
+## **2.线上预约陪诊系统（Java，JS，micro-service，Vue）**
 微服务应用课程设计
-###  2.1. <a name='-1'></a>简介
+###  2.1 简介
 一个线上预约陪诊系统，用户可通过H5小程序预约陪诊员上面进行陪诊服务。后端服务器使用Java开发，前端基于Vue开发面向用户的H5应用及面向管理员的后台系统。
-###  2.2. <a name='-1'></a>技术细节
+###  2.2 技术细节
 - 语言及框架/工具：
     - Java，JavaScript
     - SpringCloud，MyBatis，OpenFeign，Vue，MySQL，JWT
@@ -114,7 +116,7 @@ categories: jekyll update
     - H5应用基于开源商城项目[众邦科技/CRMEB-H5](https://gitee.com/ZhongBangKeJi/CRMEB-H5)。根据陪诊服务场景对开源项目代码进行删减，修改，重构以实现对应的业务逻辑。
     - 后台管理系统使用开源工具[renren-fast-vue](https://gitee.com/renrenio/renren-fast-vue)快速构建。
 
-###  2.3. <a name='-1'></a>功能演示
+###  2.3 功能演示
 - 系统架构：<br>
 ![系统架构图][pic-2.3.0]<br>
 - 客户端截图：<br>
@@ -125,7 +127,7 @@ categories: jekyll update
 ![nacos配置中心截图][pic-2.3.3]<br>
 ![nacos注册中心截图][pic-2.3.4]<br>
 
-###  2.4. <a name='-1'></a>项目仓库
+###  2.4 项目仓库
 - 服务器：<br>
 <https://github.com/HaoyuanMa/micro-service-server>
 - 客户端：<br>
@@ -135,34 +137,35 @@ categories: jekyll update
 
 ---
 
-##  3. <a name='FeedMangerRssASP.NETWebFormsEFCHTMLJavaScript'></a>**FeedManger Rss订阅管理系统（ASP.NET Web Forms，EF，C#，HTML，JavaScript）**
+## **3.FeedManger Rss订阅管理系统（ASP.NET Web Forms，EF，C#，HTML，JavaScript）**
 移动互联课程作业
-###  3.1. <a name='-1'></a>简介
+###  3.1 简介
 一个向用户提供RSS订阅管理的网站系统。支持用户添加RSS订阅，并对其管理，如取消订阅，为订阅分类等。同时也支持对订阅中的具体文章或任意文章链接进行收藏等操作。
-###  3.2. <a name='-1'></a>技术细节
+###  3.2 技术细节
 - 语言框架：
     - C#，JavaScript，HTML，CSS
     - ASP.NET，SQL Server，jQuery，Bootstrap
 - 使用ASP.NET Web Forms开发模式，对模板代码进行修改已完成自己的业务需求。
 - 使用IIS部署网站。
 
-###  3.3. <a name='-1'></a>功能演示
+###  3.3 功能演示
 - 订阅列表：<br>
 ![订阅列表][pic-3.3.0]<br>
 - 收藏夹：<br>
 ![收藏夹][pic-3.3.1]<br>
 - 添加订阅/收藏非订阅中的文章：<br>
 ![订阅管理][pic-3.3.2]<br>
-###  3.4. <a name='-1'></a>项目仓库
+
+###  3.4 项目仓库
 <https://github.com/HaoyuanMa/FeedManager>
 
 ----
 
-##  4. <a name='AndroidAndroidJava'></a> **Android端数独小游戏（Android，Java）**
+## **4.Android端数独小游戏（Android，Java）**
 Android开发课程作业
-###  4.1. <a name='-1'></a>简介
+###  4.1 简介
 一个Android平台的数独小游戏，共24到数独题目，游戏界面对于玩家填入的正确数字以蓝色字体显示，若存在冲突，以红色字体提醒。完成数独后，计算用时以提供一个简单的排行榜。
-###  4.2. <a name='-1'></a>技术细节
+###  4.2 技术细节
 - 语言框架：
     - Java，Android，SQLite
 - 技术细节
@@ -171,43 +174,45 @@ Android开发课程作业
     - 设计Game类封装游戏逻辑，使之与视图显示及用户交互逻辑上解耦。
     - 使用SQLite存储玩家解题用时。
 
-###  4.3. <a name='-1'></a>功能演示
+###  4.3 功能演示
 - 引导界面/主页面：<br>
 ![主页面][pic-4.3.0]<br>
 - 游戏页面：<br>
 ![游戏页面][pic-4.3.1]<br>
 - 完成游戏/排行榜：<br>
 ![排行榜][pic-4.3.2]<br>
-###  4.4. <a name='-1'></a>项目仓库
+
+###  4.4 项目仓库
 <https://github.com/HaoyuanMa/sudoku>
 
 ----
 
-##  5. <a name='BitChatCCtcpsocketmysqllinux'></a>BitChat **C语言聊天室（C，tcp/socket，mysql，linux）**
+## **5.BitChat-C语言聊天室（C，tcp/socket，mysql，linux）**
 小学期实践作业
-###  5.1. <a name='-1'></a>简介
+###  5.1 简介
 小组协作开发，我负责服务器端，主要实现返回好友列表，处理在线状态，转发消息等功能。
-###  5.2. <a name='-1'></a>技术细节
+###  5.2 技术细节
 - 语言框架：
     - C，MySQL，Linux
 - 依据C/S模式工作原理，服务器对端口进行监听，与客户端连接后，新建一个线程进行接受数据。
 - 自定义传输协议（字符串），根据字符串首位标识符确定客户端的请求类型，并调用对应函数处理数据。
 
-###  5.3. <a name='-1'></a>功能演示
+###  5.3 功能演示
 - 登录页面/主页面：<br>
 ![主页面][pic-5.3.0]<br>
 - 聊天页面：<br>
 ![聊天页面][pic-5.3.1]<br>
-###  5.4. <a name='-1'></a>项目仓库
+
+###  5.4 项目仓库
 <https://github.com/HaoyuanMa/BitChat>
 
 ----
 
-##  6. <a name='pipecpuVerilogFPGA'></a>**pipe cpu（Verilog，FPGA）**
+## **6.pipe cpu（Verilog，FPGA）**
 计算机组成原理课程设计
-###  6.1. <a name='-1'></a>简介
+###  6.1 简介
 一个基于FPGA的简单的五级流水线CPU，支持基本的运算，跳转，数据存储与传送等基本指令，解决了流水线cpu中的控制相关和数据相关的问题。
-###  6.2. <a name='-1'></a>技术细节
+###  6.2 技术细节
 - 语言框架：
     - Verilog，FPGA，时序电路仿真
 - 根据五级流水的五个阶段（取指，译码，执行，执行，访存，写回），将整个cpu分为五个子模块分别编码实现，然后封装在顶层模块里。
@@ -217,14 +222,15 @@ Android开发课程作业
 - 由于LW指令改写寄存器的写入数据在访存阶段才能确定，因此单纯的数据回推无法解决相关问题，需要在指令后插入一条空指令。为了简化设计，对于所有LW指令，无论是否出现数据相关，均在其后插入空指令。
 - 通过汇编工具将指令翻译成二进制数字，然后输入cpu进行仿真。
 
-###  6.3. <a name='-1'></a>功能演示
+###  6.3 功能演示
 - cpu架构：<br>
 ![cpu架构图][pic-6.3.0]<br>
 - 仿真结果：<br>
 ![仿真结果][pic-6.3.1]<br>
 ![仿真结果][pic-6.3.2]<br>
 ![仿真结果][pic-6.3.3]<br>
-###  6.4. <a name='-1'></a>项目仓库
+
+###  6.4 项目仓库
 <https://github.com/HaoyuanMa/pipe-cpu-verilog>
 
 ----
