@@ -235,30 +235,30 @@ Android开发课程作业
 
 ----
 
-[pic-1.3-0]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/628cfa92-ca9b-430a-92da-7c533fb98834.png
-[pic-1.3.1]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/ea520e51-4294-4b9a-a601-43c6d8221aa6.png
-[pic-1.3.2]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/ce000332-4e71-41b5-86f7-525382cbf046.png
-[pic-1.3.3]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/e8261b77-42b2-425f-8afe-382559d5677e.png
-[pic-1.3.4]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/82f97639-a929-4e4d-851a-ed617c532ae1.png
+[pic-1.3-0]: https://images.wait4echo.love/Works/im/wl-im-videoPoster.png
+[pic-1.3.1]: https://images.wait4echo.love/Works/im/wl-im-chatRoom.png
+[pic-1.3.2]: https://images.wait4echo.love/Works/im/wl-im-picMsg.png
+[pic-1.3.3]: https://images.wait4echo.love/Works/im/wl-im-fileTransfer.png
+[pic-1.3.4]: https://images.wait4echo.love/Works/im/wl-im-streamMonitor.png
 
-[pic-2.3.0]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/6a53e09c-d00a-4165-ac13-bfdd5d56df70.png
-[pic-2.3.1]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/b4706df5-f348-49bd-a7e3-f24368b8a185.png
-[pic-2.3.2]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/901482dd-2bd4-4dac-a14a-457902558a6c.png
-[pic-2.3.3]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/a861fc72-36a1-4853-b193-d664601138ef.png
-[pic-2.3.4]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/dd9802ea-dbdf-48a2-abde-b16841b6685d.png
+[pic-2.3.0]: https://images.wait4echo.love/Works/micro-service/wl-ms-microServiceArch.png
+[pic-2.3.1]: https://images.wait4echo.love/Works/micro-service/wl-ms-microServiceShow0.png
+[pic-2.3.2]: https://images.wait4echo.love/Works/micro-service/wl-ms-microServiceShow1.png
+[pic-2.3.3]: https://images.wait4echo.love/Works/micro-service/wl-ms-nacosConfig.png
+[pic-2.3.4]: https://images.wait4echo.love/Works/micro-service/wl-ms-nacosRegister.png
 
-[pic-3.3.0]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/f52f1930-4637-476c-8888-b9b7b889af88.png
-[pic-3.3.1]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/005514d1-07d4-4153-b801-9d462abba4dc.png
-[pic-3.3.2]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/e6f8beb4-463e-41b0-9fd4-f58e728e7abb.png
+[pic-3.3.0]: https://images.wait4echo.love/Works/feed-manager/wl-fm-mainPage.png
+[pic-3.3.1]: https://images.wait4echo.love/Works/feed-manager/wl-fm-sideBar.png
+[pic-3.3.2]: https://images.wait4echo.love/Works/feed-manager/wl-fm-addRss.png
 
-[pic-4.3.0]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/e0fe6b57-7883-4a95-9dc0-4dd550be14e8.png
-[pic-4.3.1]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/8a0356c4-ce40-48a8-a28c-c3320bba02d7.png
-[pic-4.3.2]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/8d85d907-37fd-461a-965c-034e0e17e7cf.png
+[pic-4.3.0]: https://images.wait4echo.love/Works/sudoku/wl-sudoku-main.png
+[pic-4.3.1]: https://images.wait4echo.love/Works/sudoku/wl-sudoku-game.png
+[pic-4.3.2]: https://images.wait4echo.love/Works/sudoku/wl-sudoku-rank.png
 
-[pic-5.3.0]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/c57e2b24-cdd8-4a7f-a4ba-6c85fdb8a6ed.png
-[pic-5.3.1]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/e9d30d2d-95c5-4e67-b1f0-e2f0b7723a5b.png
+[pic-5.3.0]: https://images.wait4echo.love/Works/bit-chat/wl-bc-main.png
+[pic-5.3.1]: https://images.wait4echo.love/Works/bit-chat/wl-bc-chat.png
 
-[pic-6.3.0]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/daa85fc8-86aa-4c19-8924-2ada87931b07.png
-[pic-6.3.1]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/ffff1b00-6c40-47b2-9470-149c21a2a89e.png
-[pic-6.3.2]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/c7f15b7a-59ad-4140-853c-b13133604512.png
-[pic-6.3.3]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/dc0a8ec3-8972-4ce1-aa0e-9697896b89c1.png
+[pic-6.3.0]: https://images.wait4echo.love/Works/pipe-cpu/wl-pc-arch.png
+[pic-6.3.1]: https://images.wait4echo.love/Works/pipe-cpu/wl-pc-sim0.png
+[pic-6.3.2]: https://images.wait4echo.love/Works/pipe-cpu/wl-pc-sim1.png
+[pic-6.3.3]: https://images.wait4echo.love/Works/pipe-cpu/wl-pc-sim2.png
