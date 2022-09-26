@@ -269,7 +269,7 @@ Android开发课程作业
     - 实验报告：[consumer-and-producer实验报告](https://github.com/HaoyuanMa/os-experiment/tree/main/consumer-and-producer/)
 
 ### 代码仓库
-https://github.com/HaoyuanMa/os-experiment/
+<https://github.com/HaoyuanMa/os-experiment/>
 
 ----
 
